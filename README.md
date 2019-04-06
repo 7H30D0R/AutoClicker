@@ -9,6 +9,7 @@ The code is somewhat clean, but the logic should optimally be seperated from the
  - Clean dark interface (for the most part)
  - Statistics such as per session total clicks, and all time total clicks
  - Optional feature to make the window always stay on top of all other programs
+ - Saves user preferences and statistics
  - Configurable toggle keybinds
  - Configurable timeout
 
