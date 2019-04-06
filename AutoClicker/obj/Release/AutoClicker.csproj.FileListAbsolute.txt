@@ -1,0 +1,10 @@
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.MainForm.resources
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\marcu\Documents\github\AutoClicker\AutoClicker\obj\Release\AutoClicker.csprojAssemblyReference.cache
