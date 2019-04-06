@@ -92,11 +92,6 @@ namespace AutoClicker
             InitializeComponent();
             InitializeUserSettings();
             InitializeComponentSettings();
-
-            new Thread(delegate () {
-                Application.EnableVisualStyles();
-                Application.Run(new CrosshairForm());
-             }).Start();
         }
 
         private void MainForm_Load(object sender, EventArgs e)
@@ -423,8 +418,6 @@ namespace AutoClicker
             Close();
         }
 
-        #endregion
-
         private void keybindPlusLabel_Click(object sender, EventArgs e)
         {
 
@@ -465,5 +458,7 @@ namespace AutoClicker
         {
             statsPanel.Visible = !statsPanel.Visible;
         }
+
+        #endregion
     }
 }
